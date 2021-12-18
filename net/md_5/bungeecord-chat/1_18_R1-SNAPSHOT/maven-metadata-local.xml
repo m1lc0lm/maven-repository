@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>net.md_5</groupId>
+  <artifactId>bungeecord-chat</artifactId>
+  <version>1_18_R1-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <localCopy>true</localCopy>
+    </snapshot>
+    <lastUpdated>20211218193450</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>1_18_R1-SNAPSHOT</value>
+        <updated>20211218193450</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>1_18_R1-SNAPSHOT</value>
+        <updated>20211218193450</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>
